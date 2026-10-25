@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-  <addon id="plugin.video.familycinema" name="Family Cinema" version="0.2.8" provider-name="Family">
+  <addon id="plugin.video.familycinema" name="Family Cinema" version="0.2.9" provider-name="Family">
     <requires>
       <import addon="xbmc.python" version="3.0.1" />
       <import addon="script.module.pycryptodome" version="3.4.3" />
